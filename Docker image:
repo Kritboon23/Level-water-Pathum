@@ -1,0 +1,1 @@
+docker build -t pathumthani-water-level-api .
